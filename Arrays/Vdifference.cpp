@@ -6,6 +6,7 @@ even indices to th sum of elements at odd indices*/
 #include<iostream>
 
 using namespace std;
+
 int main(){
     int array[]={1,2,1,2,1,2};
     int anssum=0;
